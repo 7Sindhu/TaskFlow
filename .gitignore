@@ -1,0 +1,73 @@
+# =============================================================================
+# TaskFlow — Task Management App
+# .gitignore
+# Developed by 7Sindhu Team
+# =============================================================================
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+pubspec.lock
+/build/
+**/build/
+flutter_export_environment.sh
+coverage/
+lcov.info
+
+# Android
+**/android/.gradle
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+*.jks
+*.keystore
+**/android/app/build/
+.idea/
+*.iml
+
+# iOS & macOS
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/xcuserdata
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral/
+xcuserdata/
+DerivedData/
+
+# Linux / Windows / Web
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/web/flutter_service_worker.js
+**/web/flutter.js
+**/web/flutter_bootstrap.js
+
+# Secrets
+*.env
+.env
+secrets.dart
+google-services.json
+GoogleService-Info.plist
+key.properties
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# Editors
+.vscode/
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+*.swp
+*.swo
+
+# Logs
+*.log
+/tmp/
