@@ -76,7 +76,7 @@ Kanban boards, to-do lists, a journal, habit tracker, and calendar — all in on
 
 ```bash
 git clone https://github.com/7Sindhu/TaskFlow.git
-cd Task_Management
+cd TaskFlow
 flutter pub get
 flutter run
 ```
@@ -97,7 +97,7 @@ flutter build macos --release
 ## 🏗️ Project Architecture
 
 ```
-Task_Management/
+TaskFlow/
 ├── lib/
 │   ├── main.dart                    # App entry, responsive nav shell
 │   ├── models/                      # Task, Habit, Journal models
