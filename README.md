@@ -16,7 +16,7 @@
 
 > *"For every minute spent organizing, an hour is earned."* — Benjamin Franklin
 
-**TaskFlow** is a free, open-source, feature-rich task management app built with Flutter.
+**TaskFlow** is a free, open-source, feature-rich task management app.
 Kanban boards, to-do lists, a journal, habit tracker, and calendar — all in one app, all stored locally.
 
 </div>
