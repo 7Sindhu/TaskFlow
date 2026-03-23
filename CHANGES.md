@@ -13,7 +13,7 @@ Developed by **7Sindhu Team**
 
 ### 🎉 Initial Public Release
 
-First public release of **TaskFlow**, a free, open-source, feature-rich task management app built with Flutter.
+First public release of **TaskFlow**, a free, open-source, feature-rich task management app.
 
 ---
 
